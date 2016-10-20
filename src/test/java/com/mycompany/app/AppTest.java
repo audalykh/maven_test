@@ -12,6 +12,12 @@ public class AppTest {
     }
 
     @Test
+    public void shouldPassToo() {
+        assertTrue(true);
+    }
+
+
+    @Test
     public void shouldFail() {
         assertTrue(false);
     }
