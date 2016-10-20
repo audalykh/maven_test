@@ -21,4 +21,9 @@ public class AppTest {
     public void shouldFail() {
         assertTrue(false);
     }
+
+    @Test
+    public void shouldFailToo() {
+        assertTrue(false);
+    }
 }
