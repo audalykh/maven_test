@@ -16,6 +16,11 @@ public class AppTest {
         assertTrue(true);
     }
 
+    @Test
+    public void shouldPassToo1() {
+        assertTrue(true);
+    }
+
 
     @Test
     public void shouldFail() {
